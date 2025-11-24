@@ -10,6 +10,6 @@ Generar preguntas dinámicas de trivia sobre fútbol y deporte.
 4. Backend envía la respuesta al frontend.
 
 ## Tecnologías
-- PHP 8+ para backend
+- FastAPI (o Flask) para backend
 - API / servicio local Llama2 (Ollama / LM Studio)
 - JSON como formato de comunicación
